@@ -1,6 +1,6 @@
 void main() {
   print ("Question#7");
-  String sentence = "MY NAME IS ABDULLAH.";
+  String sentence = "MY NAME IS MEHRAS.";
   dynamic vowel ="A";
   int A = 0;
   for (int i = 0; i < sentence.length; i++) {
@@ -12,4 +12,5 @@ void main() {
   }
 
   print(A);
+
 }
